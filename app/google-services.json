@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "465741525959",
+    "firebase_url": "https://fcm-training.firebaseio.com",
+    "project_id": "fcm-training",
+    "storage_bucket": "fcm-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465741525959:android:525804729d87b161",
+        "android_client_info": {
+          "package_name": "com.shilu.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465741525959-dvph5ub0rr0jshu8t6u6aa3laktm74el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shilu.fcm",
+            "certificate_hash": "648092F82CEA9317B089A57D6E3641366D2BE29B"
+          }
+        },
+        {
+          "client_id": "465741525959-urq2qc0v15uflrkou8mit94m10lomolp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOEjEUDCuNqxoC9FM6UbzrYuiqDPaupJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465741525959-urq2qc0v15uflrkou8mit94m10lomolp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
